@@ -61,11 +61,11 @@ Just found out what IDE is. An integrated development environment (IDE) is softw
 
 ### What did you learn out of the Marshmallow Challenge?
 
-A team building exercise making use of marshmallow and spagetti to make the tallest building of it with marshamallow sitting on top.
+A team building exercise making use of marshmallow and spagetti to make the tallest building of it with marshamallow sitting on top.THAT SOFTWARE DEVELOPMENT Programmming starts from top, then flows to the bottom. waterfall system .
 
 ### Did you have any blocks during this challenge? How did you overcome them?
 
-Sad to say I did not participate in it was at home sick
+Sad to say I did , the marsmallows became to heavy for the noodles sticks to be held on the top.
 
 ### So far, what was the hardest moment of this course for you?
 
