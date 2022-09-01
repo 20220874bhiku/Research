@@ -25,11 +25,11 @@ Feel the fear and do it anyway.
 
 ### What is Python?
 
-A programming language, whereby programmer write their software.
+''A programming language. Python is an interpreted ,object oriented high - level programming language with dynamic semantics ''
 
 ### Have you developed a habit of exploring?
 
-Not at the moment. too much thing to do with kids and work and family.
+Not at the moment. but gradually will . To much on my plate at present time .
 
 ### Have you meditated before? 
 
