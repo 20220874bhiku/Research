@@ -1,13 +1,13 @@
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
-Yes I did, but usually breaks are longer and screen time is longer.
+Yes I did, but usually breaks are longer inclusive of the screen time. 
 
 ### What is Timeboxing? Have you heard of it before? Will you use it?
+IN Agile principles ,timeboxing allocates a fixed and maximum unit of time to an activity, called a time box , within which planned activity takes place. it is used by Agile principles - project management approaches and for personal time management.
 
-Timeboxing is allotting a fixed, maximum unit of time for an activity. That unit of time is called a time box. The goal of timeboxing is to define and limit the amount of time dedicated to an activity. Scrum uses timeboxing for all of the Scrum events and as a tool for concretely defining open-ended or ambiguous tasks. I may have inadvertently use time boxing when I am working, I use to time myself for a days work by timing each place I go and spend so that I can return to office by a certain time.
 
 ### On a a 0-5 scale, how confident are you with each of the assignments?
 
-Not very confident, Software development is new to me. I am slowly getting the hang of it, but still in the infancy.
+Not very confident, Software development is new to me. I am slowly getting the hang of it.
 
 ### What are of you proud of up to this point in the course?
 
@@ -15,13 +15,13 @@ I am proud I am able to tell the computer to do what I ask of it,however I am ve
 
 ### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
 
-I do not have strategy for learning. There are things that I can understand immediately and things that I am not able to get around my brain to understand it.
-Anyways I will be slowly get the hang of it.
+I do not have strategy for learning.  secondly ,there are things that I can understand immediately and things that I am not able to get around my brain to understand it.
+
 
 
 ### If you could send a time traveling text message back to yourself at the start of this course, what would it say? 
+Feel the fear and do it anyway.
 
-Do it even if you know it is very hard to comprehend even if I do not know anything abut software. You will know eventually, maybe not withing this 6 month but give you a life long knowledge.
 
 ### What is Python?
 
